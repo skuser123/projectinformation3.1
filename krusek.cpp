@@ -1,4 +1,4 @@
-include <iostream>    
+#include <iostream>    
 #include <algorithm>    
 using namespace std;    
 const int MAX = 1e4 + 5;    
